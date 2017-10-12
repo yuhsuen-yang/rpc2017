@@ -16,3 +16,8 @@ Work through "Dynamical Models in Biology" handout.   The extra
 files come from
 the [home page](https://people.cam.cornell.edu/~dmb/DMBsupplements.html) for the book.
 
+
+
+# Assignment 1
+
+See folder [a1](a1) for details.
