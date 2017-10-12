@@ -17,6 +17,7 @@ files come from
 the [home page](https://people.cam.cornell.edu/~dmb/DMBsupplements.html) for the book.
 
 
+
 # Lec 2, 3 2017-10-09
 
 # (LaTeX lecture) 2017-10-09
