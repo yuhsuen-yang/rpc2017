@@ -16,3 +16,21 @@ Work through "Dynamical Models in Biology" handout.   The extra
 files come from
 the [home page](https://people.cam.cornell.edu/~dmb/DMBsupplements.html) for the book.
 
+
+# Lec 2, 3 2017-10-09
+
+# (LaTeX lecture) 2017-10-09
+
+[https://github.com/sje30/latex101](https://github.com/sje30/latex101)
+
+# Lec 4 2017-10-12
+
+# Lab 2 2017-10-12
+
+Work through LateX, work on
+[texintro](http://github.com/sje30/texintro) examples.  Assingment 1 handout.
+
+
+# Assignment 1
+
+See folder [a1](a1) for details.
